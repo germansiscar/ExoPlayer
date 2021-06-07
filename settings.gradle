@@ -1,0 +1,3 @@
+rootProject.name='ExoPlayer'
+include ':app'
+include ':app:exoplayerutils'
